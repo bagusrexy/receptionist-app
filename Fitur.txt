@@ -1,0 +1,4 @@
+- Registrasi tamu dengan isi data diri
+- Mencatat jam kedatangan dan juga jam kepulangan
+- Memberikan akses terbatas untuk tamu
+- upload foto tamu
